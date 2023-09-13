@@ -1,17 +1,17 @@
 {
-    "name": "iexbase/tron-api",
+    "name": "wmrush/tron-api",
     "description": "A PHP API for interacting with Tron (Trx)",
     "license": "MIT",
     "type":   "library",
-    "homepage": "https://github.com/iexbase/tron-api",
+    "homepage": "https://github.com/wmrush/tron-api",
     "authors": [
         {
-            "name": "Shamsudin Serderov",
-            "email": "steein.shamsudin@gmail.com"
+            "name": "wmrush",
+            "email": "molart1@yandex.ru"
         }
     ],
     "keywords": [
-        "iexbase",
+        "wmrush",
         "tron-lib",
         "tron-php",
         "tron-api",
