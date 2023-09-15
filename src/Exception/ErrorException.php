@@ -1,5 +1,5 @@
 <?php
-namespace IEXBase\TronAPI\Exception;
+namespace WmRush\TronAPI\Exception;
 
 
 class ErrorException extends \ErrorException

@@ -1,24 +1,12 @@
 <?php
 
-/**
- * TronAPI
- *
- * @author  Shamsudin Serderov <steein.shamsudin@gmail.com>
- * @license https://github.com/iexbase/tron-api/blob/master/LICENSE (MIT License)
- * @version 1.3.4
- * @link    https://github.com/iexbase/tron-api
- *
- * For the full copyright and license information, please view the LICENSE
- * file that was distributed with this source code.
- */
-
 declare(strict_types=1);
 
-namespace IEXBase\TronAPI;
+namespace WmRush\TronAPI;
 
 use Comely\DataTypes\BcNumber;
-use IEXBase\TronAPI\Exception\TRC20Exception;
-use IEXBase\TronAPI\Exception\TronException;
+use WmRush\TronAPI\Exception\TRC20Exception;
+use WmRush\TronAPI\Exception\TronException;
 
 /**
  * Class TRC20Contract

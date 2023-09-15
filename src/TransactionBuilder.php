@@ -1,7 +1,7 @@
 <?php
-namespace IEXBase\TronAPI;
+namespace WmRush\TronAPI;
 
-use IEXBase\TronAPI\Exception\TronException;
+use WmRush\TronAPI\Exception\TronException;
 
 // Web3 plugin
 use Web3\Contracts\Ethabi;
@@ -451,7 +451,7 @@ public function contractbalance($adres)
   }
 return $trc20;
 }
-    
+
     /**
      * Triggers smart contract
      *

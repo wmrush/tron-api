@@ -1,8 +1,8 @@
 <?php
-namespace IEXBase\TronAPI\Concerns;
+namespace WmRush\TronAPI\Concerns;
 
 
-use IEXBase\TronAPI\Exception\TronException;
+use WmRush\TronAPI\Exception\TronException;
 
 trait ManagesTronscan
 {

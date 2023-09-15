@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace IEXBase\TronAPI;
+namespace WmRush\TronAPI;
 
-use IEXBase\TronAPI\Exception\TronException;
+use WmRush\TronAPI\Exception\TronException;
 
 interface TronInterface
 {

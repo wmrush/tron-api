@@ -1,5 +1,5 @@
 <?php
-namespace IEXBase\TronAPI\Support;
+namespace WmRush\TronAPI\Support;
 
 use Exception;
 
